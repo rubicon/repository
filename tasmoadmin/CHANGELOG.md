@@ -1,15 +1,11 @@
 ## What’s changed
 
-## ✨ New features
-
-- Add add-on translation support @frenck (#150)
-
 ## 🧰 Maintenance
 
-- Apply updated repository structure & CI workflow @frenck (#149)
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#463](https://github.com/hassio-addons/addon-tasmoadmin/pull/463))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 @dependabot (#144)
-- ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 @dependabot (#145)
-- Upgrades add-on base image to v9.2.0 @frenck (#148)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.1 @[renovate[bot]](https://github.com/apps/renovate) ([#460](https://github.com/hassio-addons/addon-tasmoadmin/pull/460))
+- ⬆️ Update TasmoAdmin/TasmoAdmin to v4.2.3 @[renovate[bot]](https://github.com/apps/renovate) ([#462](https://github.com/hassio-addons/addon-tasmoadmin/pull/462))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.3 @[renovate[bot]](https://github.com/apps/renovate) ([#461](https://github.com/hassio-addons/addon-tasmoadmin/pull/461))

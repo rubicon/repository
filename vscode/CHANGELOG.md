@@ -1,18 +1,10 @@
 ## What’s changed
 
-## 🚀 Enhancements
-
-- 🏎 Enable streaming mode for Ingress @frenck (#306)
-
-## 🧰 Maintenance
-
-- 🚀 Add-on CI improvements @frenck (#302)
-
-## 📚 Documentation
-
-- 🚑 Fix contributing link in readme @frenck (#303)
-
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to v4.2.3 @frenck (#304)
-- ⬆️ Upgrades code-server to 3.11.1 @frenck (#305)
+- ⬆️ Update emilast/vscode-logfile-highlighter to v3.4.0 @[renovate[bot]](https://github.com/apps/renovate) ([#912](https://github.com/hassio-addons/addon-vscode/pull/912))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.3 @[renovate[bot]](https://github.com/apps/renovate) ([#911](https://github.com/hassio-addons/addon-vscode/pull/911))
+- ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u4 @[renovate[bot]](https://github.com/apps/renovate) ([#913](https://github.com/hassio-addons/addon-vscode/pull/913))
+- ⬆️ Update esphome to v2024.12.4 @[renovate[bot]](https://github.com/apps/renovate) ([#914](https://github.com/hassio-addons/addon-vscode/pull/914))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#916](https://github.com/hassio-addons/addon-vscode/pull/916))
+- ⬆️ Update cdr/code-server to v4.96.4 @[renovate[bot]](https://github.com/apps/renovate) ([#917](https://github.com/hassio-addons/addon-vscode/pull/917))
