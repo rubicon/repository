@@ -1,23 +1,17 @@
 ## What’s changed
 
-## 🚀 Enhancements
-
-- 🔥 Less logging by removing access log from log ouput @frenck (#88)
-- 🏎 Enable streaming mode for Ingress @frenck (#89)
-- ⬆️ Upgrade php7 -> php8 @frenck (#90)
-
 ## 🧰 Maintenance
 
-- 🚀 Add-on CI improvements @frenck (#86)
-
-## 📚 Documentation
-
-- 🚑 Fix contributing link in readme @frenck (#87)
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#234](https://github.com/hassio-addons/addon-phpmyadmin/pull/234))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 @dependabot (#82)
-- ⬆️ Bump actions/stale from 3.0.19 to 4 @dependabot (#83)
-- ⬆️ Upgrades mariadb-client to 10.5.12-r0 @frenck (#84)
-- ⬆️ Upgrades php7 to 7.4.22-r0 @frenck (#85)
-- ⬆️ Upgrades add-on base image to v10.0.1 @frenck (#91)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.0.1 @[renovate[bot]](https://github.com/apps/renovate) ([#221](https://github.com/hassio-addons/addon-phpmyadmin/pull/221))
+- ⬆️ Update PHP to v8.2.27-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#226](https://github.com/hassio-addons/addon-phpmyadmin/pull/226))
+- ⬆️ Update alpine_3_21/nginx to v1.26.2-r4 @[renovate[bot]](https://github.com/apps/renovate) ([#227](https://github.com/hassio-addons/addon-phpmyadmin/pull/227))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#228](https://github.com/hassio-addons/addon-phpmyadmin/pull/228))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#229](https://github.com/hassio-addons/addon-phpmyadmin/pull/229))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.3 @[renovate[bot]](https://github.com/apps/renovate) ([#230](https://github.com/hassio-addons/addon-phpmyadmin/pull/230))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.4 @[renovate[bot]](https://github.com/apps/renovate) ([#231](https://github.com/hassio-addons/addon-phpmyadmin/pull/231))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#232](https://github.com/hassio-addons/addon-phpmyadmin/pull/232))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.1 @[renovate[bot]](https://github.com/apps/renovate) ([#233](https://github.com/hassio-addons/addon-phpmyadmin/pull/233))

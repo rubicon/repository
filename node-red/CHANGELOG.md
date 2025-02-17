@@ -1,16 +1,20 @@
 ## What’s changed
 
+## 🧰 Maintenance
+
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#2018](https://github.com/hassio-addons/addon-node-red/pull/2018))
+
 ## ⬆️ Dependency updates
 
-- Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#1101)
-- Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#1102)
-- Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#1103)
-- ⬆️ Upgrades nodejs to 14.17.6-r0 @frenck (#1118)
-- Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#1111)
-- Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#1109)
-- ⬆️ Upgrades add-on base image to 10.1.0 @frenck (#1119)
-- Bump node-red-dashboard from 2.30.0 to 3.0.4 in /node-red @dependabot (#1116)
-- Bump node-red-contrib-time-range-switch from 1.1.1 to 1.1.2 in /node-red @dependabot (#1114)
-- Bump node-red from 2.0.5 to 2.0.6 in /node-red @dependabot (#1108)
-- Bump @node-red-contrib-themes/theme-collection from 2.0.3 to 2.0.5 in /node-red @dependabot (#1107)
-- Bump node-red-node-geofence from 0.2.2 to 0.3.0 in /node-red @dependabot (#1105)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#2031](https://github.com/hassio-addons/addon-node-red/pull/2031))
+- ⬆️ Update alpine_3_21/git to v2.47.2-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#2034](https://github.com/hassio-addons/addon-node-red/pull/2034))
+- ⬆️ Update node-red-node-email to v3.0.3 @[renovate[bot]](https://github.com/apps/renovate) ([#2037](https://github.com/hassio-addons/addon-node-red/pull/2037))
+- ⬆️ Update alpine_3_21/nodejs to v22.13.1-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#2042](https://github.com/hassio-addons/addon-node-red/pull/2042))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.1 @[renovate[bot]](https://github.com/apps/renovate) ([#2043](https://github.com/hassio-addons/addon-node-red/pull/2043))
+- ⬆️ Update alpine_3_21/python3-dev to v3.12.9-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#2044](https://github.com/hassio-addons/addon-node-red/pull/2044))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.3 @[renovate[bot]](https://github.com/apps/renovate) ([#2045](https://github.com/hassio-addons/addon-node-red/pull/2045))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.5 @[renovate[bot]](https://github.com/apps/renovate) ([#2046](https://github.com/hassio-addons/addon-node-red/pull/2046))
+- ⬆️ Update node-red to v4.0.9 @[renovate[bot]](https://github.com/apps/renovate) ([#2049](https://github.com/hassio-addons/addon-node-red/pull/2049))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#2050](https://github.com/hassio-addons/addon-node-red/pull/2050))
+- Migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#2051](https://github.com/hassio-addons/addon-node-red/pull/2051))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.1 @[renovate[bot]](https://github.com/apps/renovate) ([#2052](https://github.com/hassio-addons/addon-node-red/pull/2052))

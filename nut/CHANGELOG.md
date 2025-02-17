@@ -1,14 +1,12 @@
 ## What’s changed
 
-Primarily fixes an issue with the addon shutdown command being used, which would fail.
+## 🧰 Maintenance
 
-## 🐛 Bug fixes
-
-- 🔨 Update shutdown command @sinclairpaul (#160)
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#413](https://github.com/hassio-addons/addon-nut/pull/413))
 
 ## ⬆️ Dependency updates
 
-- Bump dessant/lock-threads from 2.0.3 to 2.1.1 @dependabot (#154)
-- Bump docker/setup-buildx-action from 1.5.0 to 1.5.1 @dependabot (#155)
-- Bump frenck/action-addon-linter from 2.1 to 2.2 @dependabot (#157)
-- Bump actions/stale from 3.0.19 to 4 @dependabot (#158)
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.3 @[renovate[bot]](https://github.com/apps/renovate) ([#401](https://github.com/hassio-addons/addon-nut/pull/401))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#402](https://github.com/hassio-addons/addon-nut/pull/402))
+- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#412](https://github.com/hassio-addons/addon-nut/pull/412))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.7.1 @[renovate[bot]](https://github.com/apps/renovate) ([#411](https://github.com/hassio-addons/addon-nut/pull/411))

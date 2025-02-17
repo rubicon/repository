@@ -1,26 +1,18 @@
 ## What’s changed
 
-## 🚀 Enhancements
-
-- Migrate JSON add-on config to YAML @frenck (#102)
-
 ## 🧰 Maintenance
 
-- 🚀 Add-on CI improvements @frenck (#87)
-- Switch add-on to centralized GitHub Action Workflows @frenck (#101)
-
-## 📚 Documentation
-
-- 🚑 Fix contributing link in readme @frenck (#88)
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#193](https://github.com/hassio-addons/addon-example/pull/193))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#89)
-- ⬆️ Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#90)
-- ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#92)
-- ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#94)
-- ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#93)
-- ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 @dependabot (#97)
-- ⬆️ Upgrades add-on base image to 10.1.1 @frenck (#98)
-- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 @dependabot (#100)
-- ⬆️ Upgrades add-on base image to v10.2.0 @frenck (#103)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#187](https://github.com/hassio-addons/addon-example/pull/187))
+- ⬆️ Update alpine_3_21/coreutils to v9.5-r2 @[renovate[bot]](https://github.com/apps/renovate) ([#188](https://github.com/hassio-addons/addon-example/pull/188))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#189](https://github.com/hassio-addons/addon-example/pull/189))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.1 @[renovate[bot]](https://github.com/apps/renovate) ([#190](https://github.com/hassio-addons/addon-example/pull/190))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.2 @[renovate[bot]](https://github.com/apps/renovate) ([#191](https://github.com/hassio-addons/addon-example/pull/191))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.3 @[renovate[bot]](https://github.com/apps/renovate) ([#192](https://github.com/hassio-addons/addon-example/pull/192))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.4 @[renovate[bot]](https://github.com/apps/renovate) ([#194](https://github.com/hassio-addons/addon-example/pull/194))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#195](https://github.com/hassio-addons/addon-example/pull/195))
+- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#197](https://github.com/hassio-addons/addon-example/pull/197))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.1 @[renovate[bot]](https://github.com/apps/renovate) ([#196](https://github.com/hassio-addons/addon-example/pull/196))

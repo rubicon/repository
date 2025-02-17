@@ -14,8 +14,12 @@ have to do is hook up your sound system to the Pi and start booming!
 The installation of this add-on is pretty straightforward and not different in
 comparison to installing any other Home Assistant add-on.
 
-1. Search for the "Spotify Connect" add-on in the Supervisor add-on store
-   and install it.
+1. Click the Home Assistant My button below to open the add-on on your Home
+   Assistant instance.
+
+   [![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
+
+1. Click the "Install" button to install the add-on.
 1. Select your audio output device and hit `Save` on that as well.
 1. Start the "Spotify Connect" add-on.
 1. Check the logs of the "Spotify Connect" to see if everything went well.
@@ -31,8 +35,10 @@ Example add-on configuration:
 log_level: info
 name: HomeAssistant
 bitrate: 320
+initial_volume: 50
 username: frenck@example.com
 password: MySpotifyPassword
+autoplay: true
 ```
 
 **Note**: _This is just an example, don't copy and paste it! Create your own!_
@@ -70,6 +76,13 @@ however, the add-on consumes more data.
 
 Valid values: `96`, `160` (default) or `320`.
 
+### Option: `initial_volume`
+
+Initial volume in % from 0-100. This setting takes effect when the addon starts or
+recovers from a crash.
+
+initial_volume: 50 # Optional
+
 ### Option: `username`
 
 **IMPORTANT**: _This requires a Spotify Premium account!_
@@ -83,6 +96,10 @@ to disallow guests on your network to use the add-on.
 ### Option: `password`
 
 The password you use to login to your Spotify Premium account.
+
+### Option: `autoplay`
+
+Whether Spotify should autoplay similar songs when reaching the end of the queue.
 
 ## Known issues and limitations
 
@@ -127,7 +144,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2018-2021 Franck Nijhof
+Copyright (c) 2018-2025 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -147,6 +164,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
+[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_spotify&repository_url=https%3A%2F%2Fgithub.com%2Fhassio-addons%2Frepository
 [contributors]: https://github.com/hassio-addons/addon-spotify-connect/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord]: https://discord.me/hassioaddons

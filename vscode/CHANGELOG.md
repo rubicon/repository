@@ -2,17 +2,13 @@
 
 ## 🚀 Enhancements
 
-- 🏎 Enable streaming mode for Ingress @frenck (#306)
+- init-user: Safeguarded linking directories and files @systemofapwne ([#922](https://github.com/hassio-addons/addon-vscode/pull/922))
 
 ## 🧰 Maintenance
 
-- 🚀 Add-on CI improvements @frenck (#302)
-
-## 📚 Documentation
-
-- 🚑 Fix contributing link in readme @frenck (#303)
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#924](https://github.com/hassio-addons/addon-vscode/pull/924))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to v4.2.3 @frenck (#304)
-- ⬆️ Upgrades code-server to 3.11.1 @frenck (#305)
+- ⬆️ Update debian_12/git to v1:2.39.5-0+deb12u2 @[renovate[bot]](https://github.com/apps/renovate) ([#919](https://github.com/hassio-addons/addon-vscode/pull/919))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.7.1 @[renovate[bot]](https://github.com/apps/renovate) ([#923](https://github.com/hassio-addons/addon-vscode/pull/923))

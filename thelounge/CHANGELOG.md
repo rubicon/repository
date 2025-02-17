@@ -1,25 +1,15 @@
 ## What’s changed
 
-## 🐛 Bug fixes
-
-- 🚑 Fix missing theme in default configuration @frenck (#77)
-
-## 🚀 Enhancements
-
-- 🔑 Update NGINX SSL parameters (#74)                 @frenck (#74)
-- 🏎 Enable streaming mode for Ingress @frenck (#76)
-
 ## 🧰 Maintenance
 
-- 🚀 Add-on CI improvements @frenck (#71)
-
-## 📚 Documentation
-
-- 🚑 Fix contributing link in readme @frenck (#75)
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#206](https://github.com/hassio-addons/addon-thelounge/pull/206))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 @dependabot (#70)
-- ⬆️ Bump actions/stale from 3.0.19 to 4 @dependabot (#69)
-- ⬆️ Upgrades nodejs to 14.17.4-r0 @frenck (#72)
-- ⬆️ Upgrades add-on base image to v10.0.1 @frenck (#73)
+- ⬆️ Update alpine_3_19/python3 to v3.11.10-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#199](https://github.com/hassio-addons/addon-thelounge/pull/199))
+- ⬆️ Update alpine_3_19/git to v2.43.5-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#200](https://github.com/hassio-addons/addon-thelounge/pull/200))
+- ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.5 @[renovate[bot]](https://github.com/apps/renovate) ([#202](https://github.com/hassio-addons/addon-thelounge/pull/202))
+- ⬆️ Update alpine_3_19/python3 to v3.11.11-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#203](https://github.com/hassio-addons/addon-thelounge/pull/203))
+- ⬆️ Update alpine_3_19/git to v2.43.6-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#204](https://github.com/hassio-addons/addon-thelounge/pull/204))
+- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#205](https://github.com/hassio-addons/addon-thelounge/pull/205))
+- Update to Alpine 3.21 (NodeJS 22) @frenck ([#207](https://github.com/hassio-addons/addon-thelounge/pull/207))

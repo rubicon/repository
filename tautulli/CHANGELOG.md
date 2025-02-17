@@ -1,25 +1,16 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## 🧰 Maintenance
 
-- Fix wheels link @frenck (#143)
-- Bump wheels link again @frenck (#153)
-
-## 🚀 Enhancements
-
-- Change add-on startup to application level @frenck (#152)
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#394](https://github.com/hassio-addons/addon-tautulli/pull/394))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 @dependabot (#137)
-- ⬆️ Bump docker/build-push-action from 2.4.0 to 2.5.0 @dependabot (#136)
-- ⬆️ Bump actions/cache from 2.1.5 to 2.1.6 @dependabot (#138)
-- ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2.2 @dependabot (#140)
-- ⬆️ Bump plexapi from 4.5.2 to 4.6.0 @dependabot (#141)
-- ⬆️ Upgrades add-on base image to v9.2.2 @frenck (#142)
-- ⬆️ Bump plexapi from 4.6.0 to 4.6.1 in /tautulli @dependabot (#144)
-- ⬆️ Bump docker/build-push-action from 2.5.0 to 2.6.1 @dependabot (#148)
-- ⬆️ Bump docker/setup-buildx-action from 1.3.0 to 1.4.1 @dependabot (#147)
-- ⬆️ Bump docker/login-action from 1.9.0 to 1.10.0 @dependabot (#146)
-- ⬆️ Upgrades add-on base image to v10.0.0 @frenck (#150)
-- ⬆️ Upgrades Tautulli to v2.7.4 @frenck (#151)
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.3 @[renovate[bot]](https://github.com/apps/renovate) ([#386](https://github.com/hassio-addons/addon-tautulli/pull/386))
+- ⬆️ Update setuptools to v75.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#387](https://github.com/hassio-addons/addon-tautulli/pull/387))
+- ⬆️ Update plexapi to v4.16.1 @[renovate[bot]](https://github.com/apps/renovate) ([#389](https://github.com/hassio-addons/addon-tautulli/pull/389))
+- ⬆️ Update setuptools to v75.8.0 @[renovate[bot]](https://github.com/apps/renovate) ([#388](https://github.com/hassio-addons/addon-tautulli/pull/388))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#390](https://github.com/hassio-addons/addon-tautulli/pull/390))
+- ⬆️ Update debian_12/git to v1:2.39.5-0+deb12u2 @[renovate[bot]](https://github.com/apps/renovate) ([#391](https://github.com/hassio-addons/addon-tautulli/pull/391))
+- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#393](https://github.com/hassio-addons/addon-tautulli/pull/393))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.7.1 @[renovate[bot]](https://github.com/apps/renovate) ([#392](https://github.com/hassio-addons/addon-tautulli/pull/392))

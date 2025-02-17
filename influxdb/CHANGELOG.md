@@ -1,24 +1,20 @@
 ## What’s changed
 
-## 🚀 Enhancements
-
-- 🏎 Enable streaming mode for Ingress @frenck (#195)
-- 🔥 Less logging by removing access log from log ouput @frenck (#198)
-- 🔑 Update NGINX SSL parameters @frenck (#197)
-
 ## 🧰 Maintenance
 
-- 🚀 Add-on CI improvements @frenck (#193)
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#371](https://github.com/hassio-addons/addon-influxdb/pull/371))
 
 ## 📚 Documentation
 
-- 🚑 Fix contributing link in readme @frenck (#196)
+- README.md grammar fixes @GeoMaciolek ([#367](https://github.com/hassio-addons/addon-influxdb/pull/367))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump dessant/lock-threads from 2.0.3 to 2.1.1 @dependabot (#188)
-- ⬆️ Bump docker/setup-buildx-action from 1.5.0 to 1.5.1 @dependabot (#189)
-- ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 @dependabot (#190)
-- ⬆️ Bump actions/stale from 3.0.19 to 4 @dependabot (#191)
-- ⬆️ Upgrades add-on base image to v4.2.3 @frenck (#194)
-- ⬆️ Upgrades InfluxDB to 1.8.9 @frenck (#199)
+- ⬆️ Update Add-on base image to v7.5.1 @[renovate[bot]](https://github.com/apps/renovate) ([#352](https://github.com/hassio-addons/addon-influxdb/pull/352))
+- ⬆️ Update Add-on base image to v7.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#359](https://github.com/hassio-addons/addon-influxdb/pull/359))
+- ⬆️ Update Add-on base image to v7.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#360](https://github.com/hassio-addons/addon-influxdb/pull/360))
+- ⬆️ Update Add-on base image to v7.6.2 @[renovate[bot]](https://github.com/apps/renovate) ([#361](https://github.com/hassio-addons/addon-influxdb/pull/361))
+- ⬆️ Update Add-on base image to v7.6.3 @[renovate[bot]](https://github.com/apps/renovate) ([#365](https://github.com/hassio-addons/addon-influxdb/pull/365))
+- ⬆️ Update Add-on base image to v7.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#366](https://github.com/hassio-addons/addon-influxdb/pull/366))
+- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#370](https://github.com/hassio-addons/addon-influxdb/pull/370))
+- ⬆️ Update Add-on base image to v7.7.1 @[renovate[bot]](https://github.com/apps/renovate) ([#369](https://github.com/hassio-addons/addon-influxdb/pull/369))

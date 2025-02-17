@@ -2,10 +2,10 @@
 
 ## 🧰 Maintenance
 
-- 🚀 Add-on CI improvements @frenck (#115)
+- 🎆 Updates maintenance/license year to 2025 @frenck (#245)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 @dependabot (#113)
-- ⬆️ Bump actions/stale from 3.0.19 to 4 @dependabot (#112)
-- ⬆️ Upgrades Plex Media Server to 1.24.0.4930 @frenck (#116)
+- ⬆️ Update uuid-runtime to 2.38.1-5+deb12u3 @TheRisenPhoenix (#244)
+- ⬆️ Update base image to 7.7.0 @TheRisenPhoenix (#243)
+- ⬆️ Update Plex Media Server to 1.41.4.9463 @TheRisenPhoenix (#242)
